@@ -1,3 +1,6 @@
+While working towards building efficient smart contracts using Solidity to solve real world problems, here is a landmark I can use to remember where I started off as a novice to this field.
+In less than three months, I should have made great strides and mastered quite a number of things which will gradually get me to my desired destination.
+
 # 🚀 Introduction to Solidity
 > A beginner-friendly repository to learn and explore the fundamentals of Solidity — a high-level programming language for writing smart contracts on the Ethereum blockchain.
 
